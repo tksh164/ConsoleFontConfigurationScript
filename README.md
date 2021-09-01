@@ -1,4 +1,7 @@
 # SetConsoleFont
+
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/tksh164/ConsoleFontConfigurationScript)
+
 This script to install the [Migu 1M](http://mix-mplus-ipa.osdn.jp/migu/) font and configure the font settings of Command Prompt (cmd.exe) and PowerShell console window.
 
 ## License
